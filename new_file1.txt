@@ -1,2 +1,4 @@
 Hello!
 My name is Peter.
+
+My major is AI.
